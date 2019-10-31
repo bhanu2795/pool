@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">950884896966-diua5nup5m492hrv96ushvt3k8sf6o3j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://carpool-66ede.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">950884896966</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAbhg7hJymPRF9abKLxadPGXIQZc7MYLI</string>
+    <string name="google_app_id" translatable="false">1:950884896966:android:8778918ea9965bf2f647c7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAbhg7hJymPRF9abKLxadPGXIQZc7MYLI</string>
+    <string name="google_storage_bucket" translatable="false">carpool-66ede.appspot.com</string>
+    <string name="project_id" translatable="false">carpool-66ede</string>
+</resources>
